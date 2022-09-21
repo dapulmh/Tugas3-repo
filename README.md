@@ -1,6 +1,6 @@
-# Tugas 2: Pengenalan Aplikasi Django dan Models View Template (MVT) pada Django
+# Tugas 3: Pengimplementasian Data Delivery Menggunakan Django
 
-Repositori ini milik Daffa Maulana Haekal (2106652083) untuk kebutuhan [Tugas2](https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments/tugas/tugas-2) .
+Repositori ini milik Daffa Maulana Haekal (2106652083) untuk kebutuhan [Tugas3](https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments/tugas/tugas-3) .
 Aplikasi heroku : https://tugas2app.herokuapp.com/katalog/
 
 *Read this in other languages: [Indonesian](README.md), [English](README.en.md)*
