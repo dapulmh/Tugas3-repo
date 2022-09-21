@@ -1,9 +1,10 @@
 # Tugas 3: Pengimplementasian Data Delivery Menggunakan Django
 
 Repositori ini milik Daffa Maulana Haekal (2106652083) untuk kebutuhan [Tugas3](https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments/tugas/tugas-3).
-Aplikasi heroku (html) : https://tugas3app.herokuapp.com/mywatchlist/html 
-Aplikasi heroku (xml) : https://tugas3app.herokuapp.com/mywatchlist/xml 
-Aplikasi heroku (json) : https://tugas3app.herokuapp.com/mywatchlist/json
+
+- Aplikasi heroku (html) : https://tugas3app.herokuapp.com/mywatchlist/html 
+- Aplikasi heroku (xml) : https://tugas3app.herokuapp.com/mywatchlist/xml 
+- Aplikasi heroku (json) : https://tugas3app.herokuapp.com/mywatchlist/json
 
 *Read this in other languages: [Indonesian](README.md), [English](README.en.md)*
 
@@ -39,30 +40,30 @@ Dikarenakan saat mendevelopment sebuah platform akan diperlukan bagian mengirim 
 
 3. Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas.
 
--Tambah aplikasi mywatchlist pada INSTALLED_APPS.
+- Tambah aplikasi mywatchlist pada INSTALLED_APPS.
 
--Buat file models.py dan tambah model yang digunakan sesuai dengan data yang ada.
+- Buat file models.py dan tambah model yang digunakan sesuai dengan data yang ada.
 
--Jalankan python manage.py makemigrations sebagai persiapan migrasi dan python manage.py migrate untuk migrasi.
+- Jalankan python manage.py makemigrations sebagai persiapan migrasi dan python manage.py migrate untuk migrasi.
 
--Buat file views.py dan tambah fungsi untuk merespond sebuah permintaan. Lengkapi juga sehingga dapat memberikan data/context sesuai dengan data yang dimiliki.
+- Buat file views.py dan tambah fungsi untuk merespond sebuah permintaan. Lengkapi juga sehingga dapat memberikan data/context sesuai dengan data yang dimiliki.
 
--buat mywatchlist.html agar dapat menunjukkan data yang telah diberikan dari context.
+- Buat mywatchlist.html agar dapat menunjukkan data yang telah diberikan dari context.
 
--Buat inital_mywatchlist_data.json dengan berisi 10 data yang terkait
+- Buat inital_mywatchlist_data.json dengan berisi 10 data yang terkait
 
--Buat file urls.py di dalam folder aplikasi dan tambah fungsi dari views.py sebagai jawaban pada halaman indeks (/).
+- Buat file urls.py di dalam folder aplikasi dan tambah fungsi dari views.py sebagai jawaban pada halaman indeks (/).
 
--Tambah urls.py sebelumnya ke dalam file urls.py di dalam folder proyek (project_django).
+- Tambah urls.py sebelumnya ke dalam file urls.py di dalam folder proyek (project_django).
 
--Buat sebuah fitur penyajian data dalam bentuk html, json, dan xml
+- Buat sebuah fitur penyajian data dalam bentuk html, json, dan xml
 
--Update isi dari Procfile
+- Update isi dari Procfile
 
--Buat aplikasi baru di Heroku, dan dapatkan API key dan nama aplikasinya di sana.
+- Buat aplikasi baru di Heroku, dan dapatkan API key dan nama aplikasinya di sana.
 
--Tambah nama aplikasi dan api key ke dalam masing masing repository key
+- Tambah nama aplikasi dan api key ke dalam masing masing repository key
 
--Add, commit, dan push perubahan yang ada. Lalu github action akan mendeploy
+- Add, commit, dan push perubahan yang ada. Lalu github action akan mendeploy
 
--Buat readme.md dan menjawab segala pertanyaan yang ada
+- Buat readme.md dan menjawab segala pertanyaan yang ada
