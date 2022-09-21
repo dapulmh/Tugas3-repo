@@ -1,9 +1,9 @@
 # Tugas 3: Pengimplementasian Data Delivery Menggunakan Django
 
-Repositori ini milik Daffa Maulana Haekal (2106652083) untuk kebutuhan [Tugas3](https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments/tugas/tugas-3).\nn
-Aplikasi heroku (html) : https://tugas3app.herokuapp.com/mywatchlist/html \n
-Aplikasi heroku (xml) : https://tugas3app.herokuapp.com/mywatchlist/xml \n
-Aplikasi heroku (json) : https://tugas3app.herokuapp.com/mywatchlist/json \n
+Repositori ini milik Daffa Maulana Haekal (2106652083) untuk kebutuhan [Tugas3](https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments/tugas/tugas-3).
+Aplikasi heroku (html) : https://tugas3app.herokuapp.com/mywatchlist/html 
+Aplikasi heroku (xml) : https://tugas3app.herokuapp.com/mywatchlist/xml 
+Aplikasi heroku (json) : https://tugas3app.herokuapp.com/mywatchlist/json
 
 *Read this in other languages: [Indonesian](README.md), [English](README.en.md)*
 
