@@ -67,3 +67,13 @@ Dikarenakan saat mendevelopment sebuah platform akan diperlukan bagian mengirim 
 - Add, commit, dan push perubahan yang ada. Lalu github action akan mendeploy
 
 - Buat readme.md dan menjawab segala pertanyaan yang ada
+
+## Foto Postman
+
+![foto_html](https://user-images.githubusercontent.com/112499670/191578994-11b0a14a-e8ee-4d8a-89ef-00500baac875.png)
+
+![foto_xml](https://user-images.githubusercontent.com/112499670/191579136-778fed67-aacd-487f-af85-115f4bf290d9.png)
+
+![foto_json](https://user-images.githubusercontent.com/112499670/191579208-de5351e3-5629-49c3-bc4a-d0e691ea8172.png)
+
+
